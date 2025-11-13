@@ -68,15 +68,4 @@ As imagens do modelo estão disponíveis na pasta:
 - `Diagrama_parte1.png`  
 - `Diagrama_parte2.png`
 
----
-
-## Estrutura do Repositório
-
-Projetos-DIO-SQL/
-┣ Arquivos/
-│ ┗ e-commerce.mwb
-┣ Diagramas/
-│ ┣ Diagrama_parte1.png
-│ ┗ Diagrama_parte2.png
-┗ README.md
 
