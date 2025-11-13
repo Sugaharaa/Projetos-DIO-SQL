@@ -59,13 +59,14 @@ Locais físicos de armazenamento, permitindo controle multiestoque.
 
 ---
 
-## **Diagrama Conceitual**
+## Diagramas do Projeto
 
-As imagens do modelo estão disponíveis na pasta:
+As imagens completas do modelo estão disponíveis em `/Diagramas`.
 
-[`/Diagramas`](./Diagramas)
+### **Parte 1 do Diagrama**
+![Diagrama Parte 1](https://raw.githubusercontent.com/Sugaharaa/Projetos-DIO-SQL/main/Diagramas/Diagrama_parte1.png)
 
-- `Diagrama_parte1.png`  
-- `Diagrama_parte2.png`
+### **Parte 2 do Diagrama**
+![Diagrama Parte 2](https://raw.githubusercontent.com/Sugaharaa/Projetos-DIO-SQL/main/Diagramas/Diagrama_parte2.png)
 
 
